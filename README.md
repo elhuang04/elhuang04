@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Elizabeth!
-I'm a CS student at Wellesley College passionate about computer graphics and all intersections of tech, entrepreneurship, and art. I am currently a SWE + PM intern at NASA.
+I'm a CS + Physics student at Wellesley College passionate about computer graphics and all intersections of tech, entrepreneurship, and art. I am currently a SWE + PM intern at NASA.
 
 ❤️ Computer vision, Image processing, CGI, Digital Watermarking, Product Development, Graphic Design, Innovation and Entrepreneurship
 
