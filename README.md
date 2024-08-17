@@ -1,11 +1,11 @@
-##👋 Hi, I'm Elizabeth!
-CS student at Wellesley College passionate about computer graphics and all intersections of tech and art. With my recent experiences in software development, I hope to combine and continue my interests in creative illustration, technology, and entrepreneurship with each future project.
+# 👋 Hi, I'm Elizabeth!
+I'm a CS student at Wellesley College passionate about computer graphics and all intersections of tech and art. With my recent experiences in software development, I hope to combine and continue my interests in creative illustration, technology, and entrepreneurship with each future project.
 
-❤️ Computer vision, Image processing, CGI, Digital Watermarking, Product Development, Graphic Design, Innovation and Entrepreneurship
+- ❤️ Computer vision, Image processing, CGI, Digital Watermarking, Product Development, Graphic Design, Innovation and Entrepreneurship
 
-💻 Python, Java, C#, HTML/CSS, JS, SQL, Git/GitHub, R/RStudio, LaTeX
+- 💻 Python, Java, C#, HTML/CSS, JS, SQL, Git/GitHub, R/RStudio, LaTeX
 
-🎨 Adobe CC (Photoshop, Illustrator, XD, InDesign, Character Animator, After Effects), Figma, CorelDraw, Blender, Canva, Krita, Procreate, Autodesk Sketchbook, GIMP, Wix, WordPress
+- 🎨 Adobe CC (Photoshop, Illustrator, XD, InDesign, Character Animator, After Effects), Figma, CorelDraw, Blender, Canva, Krita, Procreate, Autodesk Sketchbook, GIMP, Wix, WordPress
 
 <!--
 **elhuang04/elhuang04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
